@@ -1,8 +1,8 @@
 ---
-title: "About me"
+title: "Blog anglais"
 ---
 
 
 This section also must include: 
 
-- first name/surname, teacher’s name, class name and academic year
+- Olivieri/Vittorio, Bénédicte BOUCHET, BAC 2 Biologie 2019-2020
