@@ -14,5 +14,6 @@ navbar:
 base_url: https://olivierivittorio.github.io/Vittorio-Olivieri-blog/
 collections:
     posts:
+      disqus: vittorio-olivieri-blog
       share: [twitter, linkedin, facebook]
 output: distill::distill_article
