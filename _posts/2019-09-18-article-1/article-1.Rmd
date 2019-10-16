@@ -1,12 +1,10 @@
 ---
-title: "Article 1 : Where’s My Elephant? High-Tech Collars Track Wildlife in Real Time"
+title: "exemple"
 author:
   - name: Nicolas Devilez
 date: 09-18-2019
 categories:
-  - elephant
-  - track
-preview: image/where-s-my-elephant.jpg
+preview:
 output:
   distill::distill_article:
     self_contained: false
@@ -16,8 +14,6 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-
-![ [Credit: Alex Dissanayake Getty Images](https://www.gettyimages.be/detail/foto/dusk-falling-as-elephants-grazing-kenya-stockfotos/187255538) ](image/where-s-my-elephant.jpg)
 
 ## Vocabulary 
 
