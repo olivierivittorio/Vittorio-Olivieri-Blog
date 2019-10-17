@@ -1,22 +1,26 @@
 [
   {
     "path": "posts/2019-10-02-nom-de-votre-article/",
-    "title": "Artificial muscle",
-    "description": "A short description of the post.",
+    "title": "Artificial “muscles” achieve powerful pulling force",
+    "description": "Artificial fiber that contratcs could mimic real muscles. Those reaserch could be a very good thing for biomedical devices and robotics",
     "author": [
       {
-        "name": "Nicolas Devilez",
+        "name": "Olivieri Vittorio",
         "url": {}
       }
     ],
-    "date": "2019-10-02",
+    "date": "2019-10-16",
     "categories": [],
     "preview": {},
+<<<<<<< HEAD
     "last_modified": "2019-10-15T18:03:17+02:00"
+=======
+    "last_modified": "2019-10-16T11:11:11+02:00"
+>>>>>>> d19ee4cce7d21b8cc956b4bed138fd32de9676d0
   },
   {
     "path": "posts/2019-09-18-article-1/",
-    "title": "Article 1 : Where’s My Elephant? High-Tech Collars Track Wildlife in Real Time",
+    "title": "exemple",
     "description": {},
     "author": [
       {
@@ -25,11 +29,17 @@
       }
     ],
     "date": "2019-09-18",
+<<<<<<< HEAD
     "categories": [
       "elephant",
       "track"
     ],
     "preview": "posts/2019-09-18-article-1/image/where-s-my-elephant.jpg",
     "last_modified": "2019-10-15T18:03:17+02:00"
+=======
+    "categories": [],
+    "preview": {},
+    "last_modified": "2019-10-16T11:11:35+02:00"
+>>>>>>> d19ee4cce7d21b8cc956b4bed138fd32de9676d0
   }
 ]

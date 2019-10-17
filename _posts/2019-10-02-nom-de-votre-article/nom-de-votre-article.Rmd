@@ -1,11 +1,11 @@
 ---
-title: "Artificial muscle"
+title: "Artificial “muscles” achieve powerful pulling force"
 description: |
-  A short description of the post.
+  Artificial fiber that contratcs could mimic real muscles. Those reaserch could be a very good thing for biomedical devices and robotics
 author:
-  - name: Nicolas Devilez
+  - name: Olivieri Vittorio
     url: {}
-date: 10-02-2019
+date: 10-16-2019
 output:
   distill::distill_article:
     self_contained: false
@@ -14,8 +14,20 @@ output:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
+## Vocabulary 
 
-Distill is a publication format for scientific and technical writing, native to the web.
+| Words from the text | Synonym/explanation in English |
+| ------------------- | ------------------------------ |
+| E.g. To cope with   | To deal with                   |
+|                     | Not too distant future         |
 
-Learn more about using Distill at <https://rstudio.github.io/distill>.
+## Analysis table 
 
+|                              |                                                                     |
+| ---------------------------- | ------------------------------------------------------------------- |
+| Researchers                  | David L. Chandler                        |
+| Published in?                | July 11, 2019                                                        |
+| General topic?               |  Artificial muscles that may help robotics and biomedical devices.                      |
+| Procedure/what was examined? | (Give some details about the topic, i.e. methodology/material/etc.) |
+| Conclusions/discovery?       |  (what did the researchers conclude? Did they find something?)      |
+| Remaining questions?         | (check if there are still interrogations at the end of the article) |
