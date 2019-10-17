@@ -66,18 +66,20 @@ The team also included MIT graduate student Georgios Varnavides, postdoc Jinwoo 
 
 ## Vocabulary 
 
-| sprouts             | Synonym/explanation in English |
-| coiled              | ------------------------------ |
-| limbs               | To deal with                   |
-| strand of            | Not too distant future         |
-| mating               | Not too distant future         |
-| rates                | Not too distant future         |
-| heated               | Not too distant future         |
-| strip                | Not too distant future         |
-| held back            | Not too distant future         |
-| bonded               | Not too distant future         |
-| curls up             | Not too distant future         |
-| stretchable          | Not too distant future         |
+| Words from the text  | Synonym/explanation in English |
+| -------------------- | ------------------------------ |
+| sprouts              | germinate |
+| coiled               | wound / wrap |
+| limbs                | part of the body                   |
+| strand               | fiber                  |
+| mating               | join / match         |
+| rates                | frequency        |
+| heated               | warmed         |
+| strip                | line         |
+| held back            | retained         |
+| bonded               | linked        |
+| curls up             | cower / cringe / crouch         |
+| stretchable          | that can be streched        |
 | stiffer              | Not too distant future         |
 | tight                | Not too distant future         |
 | tendrils             | Not too distant future         |
