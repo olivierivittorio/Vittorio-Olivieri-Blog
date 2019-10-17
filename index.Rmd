@@ -1,5 +1,5 @@
 ---
-title: "Everything you need to know about elephants"
+title: "Artifical muscles, latest science update and how it can help our lifes"
 site: distill::distill_website
 listing: posts
 ---
