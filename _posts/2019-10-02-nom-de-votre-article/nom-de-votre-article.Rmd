@@ -3,7 +3,7 @@ title: "Artificial “muscles” achieve powerful pulling force"
 description: |
   Artificial fiber that contratcs could mimic real muscles. Those reaserch could be a very good thing for biomedical devices and robotics
 author:
-  - name: Olivieri Vittorio
+  - name: David L. Chandler
     url: {}
 date: 10-16-2019
 output:

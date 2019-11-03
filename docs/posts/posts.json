@@ -1,18 +1,33 @@
 [
   {
+    "path": "posts/2019-11-03-article-2/",
+    "title": "A New Twist on Artificial Muscles",
+    "description": {},
+    "author": [
+      {
+        "name": "Sid Perkins",
+        "url": {}
+      }
+    ],
+    "date": "2019-11-03",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2019-11-03T19:48:25+01:00"
+  },
+  {
     "path": "posts/2019-10-02-nom-de-votre-article/",
     "title": "Artificial “muscles” achieve powerful pulling force",
     "description": "Artificial fiber that contratcs could mimic real muscles. Those reaserch could be a very good thing for biomedical devices and robotics",
     "author": [
       {
-        "name": "Olivieri Vittorio",
+        "name": "David L. Chandler",
         "url": {}
       }
     ],
     "date": "2019-10-16",
     "categories": [],
     "preview": {},
-    "last_modified": "2019-10-17T21:01:35+02:00"
+    "last_modified": "2019-11-03T19:48:55+01:00"
   },
   {
     "path": "posts/2019-09-18-article-1/",

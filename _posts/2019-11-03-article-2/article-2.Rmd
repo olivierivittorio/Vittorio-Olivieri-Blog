@@ -1,0 +1,61 @@
+---
+title: "A New Twist on Artificial Muscles"
+description: 
+  
+author: 
+  - name: Sid Perkins
+    url: {}
+date: 11-03-2019
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Scientifique American.
+
+[Link : https://www.scientificamerican.com/article/a-new-twist-on-artificial-muscles/](https://www.scientificamerican.com/article/a-new-twist-on-artificial-muscles/)
+
+## Vocabulary 
+
+| Words from the text  | Synonym/explanation in English |
+| -------------------- | ------------------------------ |
+| shrunk               | getting small |
+| stubbornly           | with determination |
+| trend                | tendency                   |
+| store                | stocking                  |
+| winding              | rolling up         |
+| threshold            | sill        |
+| flex                 | bend         |
+| spun                 | ?         |
+| propel               | project         |
+| torque               | ?        |
+| Whereas              | while          |
+| stretchable          | that can be streched        |
+| stiffer              | more rigid / more tight         |
+| tight                | rigid / stiff / steep         |
+| tendrils             | tentacles         |
+| serendipity          | Something that wasn't supposed to happend but that's a good thing that it happend          |
+| warmth               | enthusiasm         |
+| pulling              | the opposite of pushing         |
+| span                 | interval         |
+| batches              | array         |
+| lifting              | pulling / carrying         |
+| loads                | bundle         |
+| tuned                | modulate / accommodate         |
+| trigger              | set off         |
+
+## Analysis table 
+
+| Words from the text          | Synonym/explanation in English |
+| ---------------------------- | ------------------------------ |
+| Researchers                  | David L. Chandler                        |
+| Published in?                | July 11, 2019                                                        |
+| General topic?               | Artificial muscles that may help robotics and biomedical devices.                      |
+| Procedure/what was examined? | No actual methodology explained, they tried to recreate the coiling-and-pulling mechanism that the cucumber plant does |
+| Conclusions/discovery?       | They were able to create microscopic fiber tha could lif way mother than their own weight very easily just by warming them  |
+| Remaining questions?         | None |
+
