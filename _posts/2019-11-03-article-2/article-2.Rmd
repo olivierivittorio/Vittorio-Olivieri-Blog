@@ -15,7 +15,7 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-# Scientifique American.
+# Scientific American.
 
 [Link : https://www.scientificamerican.com/article/a-new-twist-on-artificial-muscles/](https://www.scientificamerican.com/article/a-new-twist-on-artificial-muscles/)
 
