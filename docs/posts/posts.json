@@ -1,20 +1,5 @@
 [
   {
-    "path": "posts/2019-11-03-article-2/",
-    "title": "A New Twist on Artificial Muscles",
-    "description": {},
-    "author": [
-      {
-        "name": "Sid Perkins",
-        "url": {}
-      }
-    ],
-    "date": "2019-11-03",
-    "categories": [],
-    "preview": {},
-    "last_modified": "2019-11-03T19:48:25+01:00"
-  },
-  {
     "path": "posts/2019-10-02-nom-de-votre-article/",
     "title": "Artificial “muscles” achieve powerful pulling force",
     "description": "Artificial fiber that contratcs could mimic real muscles. Those reaserch could be a very good thing for biomedical devices and robotics",
@@ -43,5 +28,20 @@
     "categories": [],
     "preview": {},
     "last_modified": "2019-10-17T19:47:40+02:00"
+  },
+  {
+    "path": "posts/2019-11-03-article-2/",
+    "title": "A New Twist on Artificial Muscles",
+    "description": "Sctientifics discover how to mimics muscles by heating and cooling tiny fibers. They also find out that others chemicals could also do that",
+    "author": [
+      {
+        "name": "Sid Perkins",
+        "url": {}
+      }
+    ],
+    "date": "2019-07-11",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2019-11-03T20:23:22+01:00"
   }
 ]

@@ -1,11 +1,11 @@
 ---
 title: "A New Twist on Artificial Muscles"
-description: 
+description: Sctientifics discover how to mimics muscles by heating and cooling tiny fibers. They also find out that others chemicals could also do that 
   
 author: 
   - name: Sid Perkins
     url: {}
-date: 11-03-2019
+date: 07-11-2019
 output:
   distill::distill_article:
     self_contained: false
@@ -34,28 +34,25 @@ knitr::opts_chunk$set(echo = FALSE)
 | propel               | project         |
 | torque               | ?        |
 | Whereas              | while          |
-| stretchable          | that can be streched        |
-| stiffer              | more rigid / more tight         |
-| tight                | rigid / stiff / steep         |
-| tendrils             | tentacles         |
-| serendipity          | Something that wasn't supposed to happend but that's a good thing that it happend          |
-| warmth               | enthusiasm         |
-| pulling              | the opposite of pushing         |
-| span                 | interval         |
-| batches              | array         |
-| lifting              | pulling / carrying         |
-| loads                | bundle         |
-| tuned                | modulate / accommodate         |
-| trigger              | set off         |
+| narrow               | close        |
+| nozzle               | ?         |
+| tugging              | ?         |
+| tackled              | approach         |
+| yarns                | cord          |
+| sheath               | shaft        |
+| swelling             | inflation         |
+| veneered             | tackle         |
+| weave                | loom         |
+| spill                | spread         |
 
 ## Analysis table 
 
 | Words from the text          | Synonym/explanation in English |
 | ---------------------------- | ------------------------------ |
-| Researchers                  | David L. Chandler                        |
+| Researchers                  | Sid Perkins                        |
 | Published in?                | July 11, 2019                                                        |
-| General topic?               | Artificial muscles that may help robotics and biomedical devices.                      |
-| Procedure/what was examined? | No actual methodology explained, they tried to recreate the coiling-and-pulling mechanism that the cucumber plant does |
-| Conclusions/discovery?       | They were able to create microscopic fiber tha could lif way mother than their own weight very easily just by warming them  |
-| Remaining questions?         | None |
+| General topic?               | latest advance in artificial muscles researchs led by many scientifics around the world.                      |
+| Procedure/what was examined? | Scientifics heat and cool tiny bounded fibers to lift weights or flex robotics arm. Other searcher found that other things than just heat could be used to change the lenght of the fibers ans thus lifts weights. for exemple some gaz could be used to change de lenght of those fibers and so push weights.   |
+| Conclusions/discovery?       | they are very optimistic for the futur they are already thinking about coat that could have those tiny fibers in them that could expend and protect when some noxious vapors are around.   |
+| Remaining questions?         | They are talking a lot about beomedical or concrete application to our daily life. But they mentionned robots. How those fibers could be used in robotics ? why are they so important and usefulls in robotics ? 
 
