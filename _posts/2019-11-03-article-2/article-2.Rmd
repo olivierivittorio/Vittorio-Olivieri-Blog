@@ -5,7 +5,8 @@ description: Sctientifics discover how to mimics muscles by heating and cooling 
 author: 
   - name: Sid Perkins
     url: {}
-date: 07-11-2019
+date: 03-11-2019
+preview: article2.png
 output:
   distill::distill_article:
     self_contained: false

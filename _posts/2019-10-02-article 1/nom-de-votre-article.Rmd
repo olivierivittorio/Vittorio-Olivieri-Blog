@@ -5,8 +5,8 @@ description: |
 author:
   - name: David L. Chandler
     url: {}
-date: 10-16-2019
-preview: test.png
+date: 02-10-2019
+preview: test.jpg
 output:
   distill::distill_article:
     self_contained: false
