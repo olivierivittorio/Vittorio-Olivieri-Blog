@@ -23,15 +23,25 @@ knitr::opts_chunk$set(echo = FALSE)
 
 | Words from the text  | Synonym/explanation in English |
 | -------------------- | ------------------------------ |
-| Soft robots          | New generation of robot that are soft they act more like living things |
-| Actuation            | Triggering |
-| Versatility          | Adaptability |
-| Completion           | The accomplishment of ...         |
-| Embedded             | Integrated                    |
-| Bond                 | link         |
-| Carry out            | Achieve / do                   |
-| wide                 | Opposite of narrow        |
-
+| Soft          | New generation of robot that are soft they act more like living things |
+| plethora            | Triggering |
+| harness          | Adaptability |
+| chamber’s inner wall           | The accomplishment of ...         |
+| tight seal             | Integrated                    |
+| a shaft                 | link         |
+| shortcomings            | Achieve / do                   |
+| empower                 | Opposite of narrow| Soft          | New generation of robot that are soft they act more like living things |
+| folded            | Triggering |
+| embedded          | Adaptability |
+| within           | The accomplishment of ...         |
+| sealed             | Integrated                    |
+| triggers                 | link         |
+| shape-shift            | Achieve / do                   |
+| grasp                 | Opposite of narrow        || Soft          | New generation of robot that are soft they act more like living things |
+| surrounding            | Triggering |
+| task          | Adaptability |
+| hinged           | The accomplishment of ...         |
+| tunable             | Integrated                    |
 
 
 ## Analysis table 
