@@ -15,7 +15,7 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-# Advanced Sciences News
+# Wyss Institute.
 
 [Link : https://wyss.harvard.edu/news/pistons-are-muscling-up/](https://wyss.harvard.edu/news/pistons-are-muscling-up/)
 
