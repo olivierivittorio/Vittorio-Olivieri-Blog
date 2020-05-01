@@ -1,11 +1,11 @@
 ---
-title: "nom-de-votre-article"
+title: "A simple sheath adds extra power to artificial muscles"
 description: |
-  A short description of the post.
+  Everything is in the title.
 author:
-  - name: Benjamin Boettner
+  - name: Jonathan Bradley  
     url: {}
-date: 05-01-2020
+date: 05-02-2020
 output:
   distill::distill_article:
     self_contained: false
@@ -14,8 +14,44 @@ output:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
+ 
+# Create digital
 
-Distill is a publication format for scientific and technical writing, native to the web.
+[Link : https://www.createdigital.org.au/a-simple-sheath-adds-extra-power-to-artificial-muscles/](https://www.createdigital.org.au/a-simple-sheath-adds-extra-power-to-artificial-muscles/)
 
-Learn more about using Distill at <https://rstudio.github.io/distill>.
+## Vocabulary 
 
+| Words from the text  | Synonym/explanation in English |
+| -------------------- | ------------------------------ |
+| shrunk               | getting small |
+| stubbornly           | with determination |
+| trend                | tendency                   |
+| store                | stocking                  |
+| winding              | rolling up         |
+| threshold            | sill        |
+| flex                 | bend         |
+| spun                 | ?         |
+| propel               | project         |
+| torque               | ?        |
+| Whereas              | while          |
+| narrow               | close        |
+| nozzle               | ?         |
+| tugging              | ?         |
+| tackled              | approach         |
+| yarns                | cord          |
+| sheath               | shaft        |
+| swelling             | inflation         |
+| veneered             | tackle         |
+| weave                | loom         |
+| spill                | spread         |
+
+## Analysis table 
+
+| Words from the text          | Synonym/explanation in English |
+| ---------------------------- | ------------------------------ |
+| Researchers                  | Sid Perkins                        |
+| Published in?                | July 11, 2019                                                        |
+| General topic?               | latest advance in artificial muscles researchs led by many scientifics around the world.                      |
+| Procedure/what was examined? | Scientifics heat and cool tiny bounded fibers to lift weights or flex robotics arm. Other searcher found that other things than just heat could be used to change the lenght of the fibers ans thus lifts weights. for exemple some gaz could be used to change de lenght of those fibers and so push weights.   |
+| Conclusions/discovery?       | they are very optimistic for the futur they are already thinking about coat that could have those tiny fibers in them that could expend and protect when some noxious vapors are around.   |
+| Remaining questions?         | They are talking a lot about beomedical or concrete application to our daily life. But they mentionned robots. How those fibers could be used in robotics ? why are they so important and usefulls in robotics ? 

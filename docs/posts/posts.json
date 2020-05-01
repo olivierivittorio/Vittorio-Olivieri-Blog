@@ -15,6 +15,21 @@
     "last_modified": "2020-05-01T20:22:05+02:00"
   },
   {
+    "path": "posts/2020-05-01-article 6/",
+    "title": "A simple sheath adds extra power to artificial muscles",
+    "description": "Everything is in the title.",
+    "author": [
+      {
+        "name": "Jonathan Bradley",
+        "url": {}
+      }
+    ],
+    "date": "2020-05-02",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-05-01T20:39:42+02:00"
+  },
+  {
     "path": "posts/2020-04-30-article 4/",
     "title": "Pistons are muscling up",
     "description": "New generation of pistons made of soft materials can work under lower pressure with more efficiency.",
