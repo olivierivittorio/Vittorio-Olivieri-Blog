@@ -2,7 +2,7 @@
   {
     "path": "posts/2020-04-30-article 4/",
     "title": "Pistons are muscling up",
-    "description": "New generation of piston made of soft materials can work under lower pressure with more efficiency.",
+    "description": "New generation of pistons made of soft materials can work under lower pressure with more efficiency.",
     "author": [
       {
         "name": "Benjamin Boettner",
@@ -11,8 +11,10 @@
     ],
     "date": "2020-04-30",
     "categories": [],
-    "preview": {},
-    "last_modified": "2020-05-01T13:46:10+02:00"
+    "preview": "posts/2020-04-30-article 4/image.png",
+    "last_modified": "2020-05-01T13:53:40+02:00",
+    "preview_width": 1391,
+    "preview_height": 547
   },
   {
     "path": "posts/2020-04-22-article 3/",

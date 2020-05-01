@@ -1,11 +1,12 @@
 ---
 title: "Pistons are muscling up"
 description: |
-  New generation of piston made of soft materials can work under lower pressure with more efficiency.
+  New generation of pistons made of soft materials can work under lower pressure with more efficiency.
 author:
   - name: Benjamin Boettner
     url: {}
 date: 04-30-2020
+preview: image.png
 output:
   distill::distill_article:
     self_contained: false
