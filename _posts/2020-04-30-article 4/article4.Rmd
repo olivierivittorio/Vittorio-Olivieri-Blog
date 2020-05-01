@@ -1,7 +1,7 @@
 ---
 title: "Pistons are muscling up"
 description: |
-  New generation of piston made of soft materials can work under low pressure with more efficiency.
+  New generation of piston made of soft materials can work under lower pressure with more efficiency.
 author:
   - name: Benjamin Boettner
     url: {}
@@ -23,35 +23,35 @@ knitr::opts_chunk$set(echo = FALSE)
 
 | Words from the text  | Synonym/explanation in English |
 | -------------------- | ------------------------------ |
-| Soft          | New generation of robot that are soft they act more like living things |
-| plethora            | Triggering |
-| harness          | Adaptability |
-| chamber’s inner wall           | The accomplishment of ...         |
-| tight seal             | Integrated                    |
-| a shaft                 | link         |
-| shortcomings            | Achieve / do                   |
-| empower                 | Opposite of narrow| Soft          | New generation of robot that are soft they act more like living things |
-| folded            | Triggering |
-| embedded          | Adaptability |
-| within           | The accomplishment of ...         |
-| sealed             | Integrated                    |
-| triggers                 | link         |
-| shape-shift            | Achieve / do                   |
-| grasp                 | Opposite of narrow        || Soft          | New generation of robot that are soft they act more like living things |
-| surrounding            | Triggering |
-| task          | Adaptability |
-| hinged           | The accomplishment of ...         |
-| tunable             | Integrated                    |
+| Soft                 | opposite of hard  |
+| plethora             | big variety of  |
+| harness              | to exploit |
+| chamber’s inner wall | the wall that is inside de chamber ...         |
+| tight seal           | airtight / a seal that dosn't let water come in.                    |
+| a shaft              | bar         |
+| shortcomings         | deficiency                   |
+| empower              | gain in power          | 
+| folded               | bend / curl |
+| embedded             | integrated / installed |
+| within               | that is in something.         |
+| sealed               | closed                    |
+| triggers             | cause / generate / set off         |
+| shape-shift          | something that take the shape of an another thing.                   |
+| grasp                | hold / grip         |
+| surrounding          | arround |
+| task                 | mission / assignement |
+| hinged               | articulate         |
+| tunable              | that can be modified                    |
 
 
 ## Analysis table 
 
 |                              |                                                                     |
 | ---------------------------- | ------------------------------------------------------------------- |
-| Researchers                  | SHENGQIANG CAI: : Assistant Professor, Mechanical and Aerospace Engineering, UC San Diego                       |
-| Published in?                | 11 march 2020)                                                       |
-| General topic?               |  They discovered artificial muscles that could have more than one shape thank's to liquid crystal that can change it's form when cooled.                       |
-| Procedure/what was examined? | They created an " Elastomer " that is made of liquid crystal it was the main thing studied. |
-| Conclusions/discovery?       |  They find out that this elastomer was working very well and could be adapt to soft robots and soft machines      |
-| Remaining questions?         | How the crystal liquid can change in the robot and how the rearrangement work ? |
+| Researchers                  | Wyss Institute and SEAS researchers Daniel Vogt, a Research Engineer at the Wyss Institute and Nicholas Bartlett       |
+| Published in?                | 06 juin 2019)                                                       |
+| General topic?               | They created a new kind of piston that use artificial muscles to work                |
+| Procedure/what was examined? | They made a lot of test under low pressure and their ' piston tension ' is as efficient as usual one. Because they use FOAM material ( which is mainly material that looks like origami ) so when you lower the pressure the artificial muscles kinda shrivel up and lift something at the same time. |
+| Conclusions/discovery?       | They made a test that compare tension piston and regular piston at crushing objects. The piston tension was as good as the regular one but was working under lower pressure.      |
+| Remaining questions?         | None |
 
