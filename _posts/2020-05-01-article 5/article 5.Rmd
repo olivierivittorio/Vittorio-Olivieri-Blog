@@ -1,0 +1,51 @@
+---
+title: "Better understanding of soft artificial muscles"
+description: |
+  Researchers have uncovered the fundamental science behind artificial muscles that will allow them to empower soft robot and create wearable devices.
+author:
+  - name: John A. Paulson
+    url: {}
+date: 05-01-2020
+preview: school-lesson-blackboard-design.jpg
+output:
+  distill::distill_article:
+    self_contained: false
+
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# ScienceDaily
+[Link : https://www.sciencedaily.com/releases/2019/11/191115190343.htm?fbclid=IwAR28qw6vRZoJ_IT5qOc9bH4g8S4adRwJ4O_ua6YR3WDzEZzb1MH1Cr34c-E](https://www.sciencedaily.com/releases/2019/11/191115190343.htm?fbclid=IwAR28qw6vRZoJ_IT5qOc9bH4g8S4adRwJ4O_ua6YR3WDzEZzb1MH1Cr34c-E)
+
+## Vocabulary 
+
+| Words from the text  | Synonym/explanation in English |
+| -------------------- | ------------------------------ |
+| wearable             | Something that u can wear  |
+| underlying           | aside / lurking  |
+| uncovered            | something that is not covered |
+| stretch              | expanse         |
+| shear                | to cut                     |
+| knot-like            | that is like a node         |
+| braid-like           | that look like a braid, like the haircut that girl do |
+| slender              | slight / slim          | 
+| sheds light on       | put under light |
+| endless              | limitless, that has no end/limit |
+| guidelines           | instruction / protocol         |
+| tangled              | knotted / mixed up                    |
+| coil                 | tendril / braid                    |
+
+
+## Analysis table 
+
+|                              |                                                                     |
+| ---------------------------- | ------------------------------------------------------------------- |
+| Researchers                  | Harvard John A. Paulson School of Engineering and Applied Sciences       |
+| Published in?                | November 15, 2019                                                       |
+| General topic?               | It is mainly about " theory " they discovered what was fundamentaly making the artificial muscles work.                |
+| Procedure/what was examined? |The researchers found that different levels of stretch and twist result in different types of complex non-planar shapes. They characterized which shapes lead to kinked loops, which to tight coils, and which to a mixture of the two. |
+| Conclusions/discovery?       | They found that pre-stretch is important for forming coils, as these shapes are the most stable under stretching      |
+| Remaining questions?         | None |
