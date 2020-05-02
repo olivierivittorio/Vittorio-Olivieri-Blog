@@ -6,6 +6,7 @@ author:
   - name: Jonathan Bradley  
     url: {}
 date: 05-02-2020
+preview: article6.jpg
 output:
   distill::distill_article:
     self_contained: false
@@ -23,35 +24,22 @@ knitr::opts_chunk$set(echo = FALSE)
 
 | Words from the text  | Synonym/explanation in English |
 | -------------------- | ------------------------------ |
-| shrunk               | getting small |
-| stubbornly           | with determination |
-| trend                | tendency                   |
-| store                | stocking                  |
-| winding              | rolling up         |
-| threshold            | sill        |
-| flex                 | bend         |
-| spun                 | ?         |
-| propel               | project         |
-| torque               | ?        |
-| Whereas              | while          |
-| narrow               | close        |
-| nozzle               | ?         |
-| tugging              | ?         |
-| tackled              | approach         |
-| yarns                | cord          |
-| sheath               | shaft        |
-| swelling             | inflation         |
-| veneered             | tackle         |
-| weave                | loom         |
-| spill                | spread         |
+| thanks to            | due to / as a result of |
+| yarn                 | wool / thread  |
+| encasing             | put into a case  |
+| sheaths              | covering / wrapping                  |
+| input                | profit / contribution         |
+| garments             | covering / habillement        |
+| drug                 | medecine / pharmaceutical         |
+| bloodstream          | flow / blood flow         |
 
 ## Analysis table 
 
 | Words from the text          | Synonym/explanation in English |
 | ---------------------------- | ------------------------------ |
-| Researchers                  | Sid Perkins                        |
-| Published in?                | July 11, 2019                                                        |
-| General topic?               | latest advance in artificial muscles researchs led by many scientifics around the world.                      |
-| Procedure/what was examined? | Scientifics heat and cool tiny bounded fibers to lift weights or flex robotics arm. Other searcher found that other things than just heat could be used to change the lenght of the fibers ans thus lifts weights. for exemple some gaz could be used to change de lenght of those fibers and so push weights.   |
-| Conclusions/discovery?       | they are very optimistic for the futur they are already thinking about coat that could have those tiny fibers in them that could expend and protect when some noxious vapors are around.   |
-| Remaining questions?         | They are talking a lot about beomedical or concrete application to our daily life. But they mentionned robots. How those fibers could be used in robotics ? why are they so important and usefulls in robotics ? 
+| Researchers                  | University of Wollongong's team                        |
+| Published in?                | April 9, 2020                                                        |
+| General topic?               | Adding a sheaths to artificial muscles could empower them a lot.                      |
+| Procedure/what was examined? | “By placing a sheath on the muscle, we can focus only that energy on the outer part of the fibre and convert this input energy more quickly and efficiently.”   |
+| Conclusions/discovery?       | They discovered that adding a sheaths on artifical muscles could help them to create smart clothes, artifical heart, etc   |
+| Remaining questions?         | None |
