@@ -1,0 +1,51 @@
+---
+title: "Scientists build biobot with a real rat spinal cord"
+description: |
+  How a robot and spinal cord can merge to create a hybrid robot. 
+author:
+  - name: Brooks Hays
+    url: {}
+date: 05-03-2020
+preview: article7.jpg
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# United Press International
+[Link : https://www.upi.com/Science_News/2020/04/29/Scientists-build-biobot-with-a-real-rat-spinal-cord/4221588126697/](https://www.upi.com/Science_News/2020/04/29/Scientists-build-biobot-with-a-real-rat-spinal-cord/4221588126697/)
+
+## Vocabulary 
+
+| Words from the text  | Synonym/explanation in English |
+| -------------------- | ------------------------------ |
+| biohybrid            | a robot that has real biological part in it.  |
+| spinal cord          | the substance that is inside de spine  |
+| culturing            | developing |
+| resting              | staying         |
+| rhythmic             | in rhythm                      |
+| cues                 | clue / hint         |
+| pattern              | arrangement |
+| behavioral           | that comes from the behavior          | 
+| time-points          | to a precise time |
+| extend               | lengthen |
+| component            | something that compose the robot         |
+| healthy              | in good health                    |
+| alters               | modifie                     |
+| scale                | take some proportions |
+| rely                 | depend on |
+| deepest              | inmost         |
+
+## Analysis table 
+
+|                              |                                                                     |
+| ---------------------------- | ------------------------------------------------------------------- |
+| Researchers                  | Scientists at the University of Illinois at Urbana-Champaign        |
+| Published in?                | April 29, 2020                                                       |
+| General topic?               | Recent studies show how robot combine with rat's spinal cord could create a new kind of robot that would be a hybrid, very useful to study neurological diseases |
+| Conclusions/discovery?       | Theses robots will be useful to help research about neurological diseases but for now they have to find a way to vascularize properly the robots because at the moment they can only do little robots and they plan to do bigger one that need big and complex vascularized system.    |
+| Remaining questions?         | None |

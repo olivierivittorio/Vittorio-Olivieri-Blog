@@ -1,5 +1,20 @@
 [
   {
+    "path": "posts/2020-05-03-article 7/",
+    "title": "Scientists build biobot with a real rat spinal cord",
+    "description": "How a robot and spinal cord can merge to create a hybrid robot.",
+    "author": [
+      {
+        "name": "Brooks Hays",
+        "url": {}
+      }
+    ],
+    "date": "2020-05-03",
+    "categories": [],
+    "preview": "posts/2020-05-03-article 7/article7.jpg",
+    "last_modified": "2020-05-03T11:58:08+02:00"
+  },
+  {
     "path": "posts/2020-05-01-article 6/",
     "title": "A simple sheath adds extra power to artificial muscles",
     "description": "Everything is in the title.",
@@ -27,7 +42,7 @@
     "date": "2020-05-01",
     "categories": [],
     "preview": "posts/2020-05-01-article 5/school-lesson-blackboard-design.jpg",
-    "last_modified": "2020-05-01T20:22:05+02:00"
+    "last_modified": "2020-05-03T11:31:47+02:00"
   },
   {
     "path": "posts/2020-04-30-article 4/",
