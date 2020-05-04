@@ -18,7 +18,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 # Advanced Sciences News
 
-[Link : http://news.mit.edu/2019/artificial-fiber-muscles-0711](https://www.advancedsciencenews.com/creating-versatile-artificial-muscles-for-life-like-robots/)
+[Link : https://www.advancedsciencenews.com/creating-versatile-artificial-muscles-for-life-like-robots/](https://www.advancedsciencenews.com/creating-versatile-artificial-muscles-for-life-like-robots/)
 
 ## Vocabulary 
 

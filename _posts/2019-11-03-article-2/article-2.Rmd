@@ -31,13 +31,9 @@ knitr::opts_chunk$set(echo = FALSE)
 | winding              | rolling up         |
 | threshold            | sill        |
 | flex                 | bend         |
-| spun                 | ?         |
 | propel               | project         |
-| torque               | ?        |
 | Whereas              | while          |
 | narrow               | close        |
-| nozzle               | ?         |
-| tugging              | ?         |
 | tackled              | approach         |
 | yarns                | cord          |
 | sheath               | shaft        |
